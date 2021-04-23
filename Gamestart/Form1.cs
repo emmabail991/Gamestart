@@ -53,7 +53,7 @@ namespace Gamestart
 
             //go screen
             startsound.Play();
-            this.BackColor = Color.Green;
+            this.BackColor = Color.DarkGreen;
             go.Visible = true;
             go.Text = "GO";
 
